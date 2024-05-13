@@ -1,0 +1,8 @@
+{
+  "name": "ywemay-erp-choices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ywemay/ywemay-erp-choices.git",
+  "author": "Chibuc Dorin",
+  "license": "MIT"
+}
